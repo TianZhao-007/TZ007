@@ -1,7 +1,7 @@
 Hi,folks.
 ======
 
-I AM Tian Zhao.
+I am Tian Zhao.
 --------------
 
 Here are some repos about my learning process.
