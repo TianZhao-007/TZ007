@@ -1,7 +1,5 @@
 Hi,folks.
 ======
 
-I am Tian Zhao,studying in ANU College of Engineering and Computer Science.
-------------------------------------------------------------------------------------------
-Here are some repos about my courses and projects.
--------------------------
+🛠I am Tian Zhao,a 2+2 student of Australian National University (ANU) and Northwestern Polytechnical University (NPU). 
+
